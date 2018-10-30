@@ -1,0 +1,17 @@
+Starting audit...
+[ERROR] F:\MSIT\ADS-2\assignments\m2\2.1 CC_Percolation\Bag.java:0: File does not end with a newline. [NewlineAtEndOfFile]
+Audit done.
+Checkstyle ends with 1 errors.
+Starting audit...
+[ERROR] F:\MSIT\ADS-2\assignments\m2\2.1 CC_Percolation\DepthFirstSearch.java:0: File does not end with a newline. [NewlineAtEndOfFile]
+Audit done.
+Checkstyle ends with 1 errors.
+Starting audit...
+[ERROR] F:\MSIT\ADS-2\assignments\m2\2.1 CC_Percolation\Graph.java:41:16: Name 'V' must match pattern '^[a-z][a-zA-Z0-9]*$'. [MethodName]
+Audit done.
+Checkstyle ends with 1 errors.
+Starting audit...
+[ERROR] F:\MSIT\ADS-2\assignments\m2\2.1 CC_Percolation\Solution.java:0: File does not end with a newline. [NewlineAtEndOfFile]
+[ERROR] F:\MSIT\ADS-2\assignments\m2\2.1 CC_Percolation\Solution.java:89:18: 'while' is not followed by whitespace. [WhitespaceAround]
+Audit done.
+Checkstyle ends with 2 errors.
