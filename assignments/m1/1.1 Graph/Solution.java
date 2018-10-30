@@ -122,7 +122,7 @@ class GraphL {
      * @return     { Returns String }
      */
     public String tostring() {
-        String str = vert() + " vertices, " + count + " edge" + "\n";
+        String str = vert() + " vertices, " + count + " edges" + "\n";
         if(count == 0) {
             str += "No edges";
             return str;
