@@ -86,7 +86,7 @@ public final class Solution {
         Percolation percobj = new Percolation();
         Graph graph = new Graph(vertex * vertex + 2);
         try {
-            while(sc.hasNext()) {
+            while (sc.hasNext()) {
                 int row = sc.nextInt(), col = sc.nextInt();
                 grid[row - 1][col - 1] = true;
 
