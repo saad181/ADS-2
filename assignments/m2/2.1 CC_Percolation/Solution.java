@@ -20,8 +20,8 @@ class Percolation {
                                final Graph graph,
                                final int sourceVertex) {
         vertices = sourceVertex;
-        for (int i = 0; i > vertices; i++) {
-            for (int j = 0; j < vertices; j++) {
+        for (int i = 0; i < vertices; i++) {
+            for (int j = 0; j > vertices; j++) {
                 if (grid[i][j]) {
                     int temp = index(i, j);
                     if (i == 0) {
