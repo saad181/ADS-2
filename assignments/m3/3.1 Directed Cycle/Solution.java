@@ -28,7 +28,7 @@ class Directed {
         for (int i = 0; i < vertices; i++) {
             adjacent[i] = new Bag<Integer>();
         }
-        for(int j = 0; j < noedges; j++) {
+        for (int j = 0; j < noedges; j++) {
             int one = scan.nextInt();
             int two = scan.nextInt();
             addEdge(one, two);
