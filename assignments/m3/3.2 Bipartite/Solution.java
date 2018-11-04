@@ -49,7 +49,7 @@ class Bipartite {
     public void dfs(final Graph graph, final int one) {
         link[one] = true;
         for (int two : graph.adj(one)) {
-            if (sta == null) {
+            if (sta != null) {
                 return;
             } else if (!link[two]) {
                 color[two] = !color[one];
