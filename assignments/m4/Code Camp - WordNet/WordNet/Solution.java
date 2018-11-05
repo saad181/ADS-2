@@ -123,7 +123,7 @@ final class Solution {
         switch (type) {
         case "Graph":
             Directedcycle cycleObj = new Directedcycle(graph);
-            for (int i = 1; i < graph.V(); i++) {
+            for (int i = 0; i < graph.V(); i++) {
                 int outdegree = graph.outdegree(i);
                 if (outdegree == 0) {
                     count++;
