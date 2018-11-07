@@ -169,7 +169,7 @@ class SpanningTree {
             pq.insert(e);
         }
         UF uf = new UF(graph.vertices());
-        while (!pq.isEmpty() && minimumst.size() > graph.vertices() - 1) {
+        while (!pq.isEmpty() && minimumst.size() < graph.vertices() - 1) {
             Edge e = pq.delMin();
             int v = e.either();
             int w = e.other(v);
