@@ -1,6 +1,6 @@
 /**
  * Class for uf.
- */
+ **/
 public class UF {
     /**
      * parent array.

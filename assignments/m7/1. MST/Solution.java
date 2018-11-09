@@ -104,7 +104,8 @@ class EdgeWeightedGraph {
      */
     public void addEdge(final Edge e) {
         int pos = e.either();
-        int pos1 = e.other(pos);       
+        int pos1 = e.other(pos);
+        // System.out.println(pos +"  "+pos1+"  "+graph.length );
         graph[pos].add(e);
         graph[pos1].add(e);
     }
