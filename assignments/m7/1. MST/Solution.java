@@ -230,4 +230,5 @@ final class Solution {
         SpanningTree st = new SpanningTree(w);
         System.out.format("%.5f", st.min());
     }
+
 }
