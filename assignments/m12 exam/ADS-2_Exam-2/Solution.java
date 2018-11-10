@@ -9,6 +9,11 @@ final class Solution {
     private Solution() {
 
     }
+    /**
+     * { function_description }
+     *
+     * @param      args  The arguments
+     */
     public static void main(final String[] args) {
         Scanner scan = new Scanner(System.in);
         int ver = Integer.parseInt(scan.nextLine());
@@ -27,7 +32,6 @@ final class Solution {
         case "Graph":
             System.out.println(ewg);
             break;
-
         case "DirectedPaths":
             String[] path = scan.nextLine().split(" ");
             DijkstrasSP dij = 
