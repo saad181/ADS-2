@@ -25,20 +25,20 @@ final class Solution {
         case "DirectedPaths":
             String[] path = scan.nextLine().split(" ");
             DijkstrasSP dij = new DijkstrasSP(ewg, Integer.parseInt(path[0]));
-            if(dij.hasPathTo(Integer.parseInt(path[1]))) {
+            if (dij.hasPathTo(Integer.parseInt(path[1]))) {
                 System.out.println(dij.distance(Integer.parseInt(path[1])));
             } else {
                 System.out.println("No Path Found.");
             }
             break;
         case "ViaPaths":
-            // String[] viapath = scan.nextLine().split(" ");
-            // DijkstrasSP dij1 = new DijkstrasSP(ewg, Integer.parseInt(viapath[0]));
-            // if(dij1.hasPathTo(Integer.parseInt(viapath[2])) && dij1.hasPathTo(Integer.parseInt(viapath[1]))) {
-            //     System.out.println(dij1.distance(Integer.parseInt(viapath[2])));
-            // } else {
-            //     System.out.println("No Path Found.");
-            // }
+            String[] viapath = scan.nextLine().split(" ");
+            DijkstrasSP dij1 = new DijkstrasSP(ewg, Integer.parseInt(viapath[0]));
+            if(dij1.hasPathTo(Integer.parseInt(viapath[2])) && dij1.hasPathTo(Integer.parseInt(viapath[1]))) {
+                System.out.println(dij1.distance(Integer.parseInt(viapath[2])));
+            } else {
+                System.out.println("No Path Found.");
+            }
             break;
 
         default:
