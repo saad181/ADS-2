@@ -21,11 +21,13 @@ Starting audit...
 [ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:2: Missing a Javadoc comment. [JavadocType]
 [ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:3:5: Missing a Javadoc comment. [JavadocMethod]
 [ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:6:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:36: Line is longer than 80 characters (found 82). [LineLength]
-[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:37: Line is longer than 80 characters (found 110). [LineLength]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:36: Line is longer than 80 characters (found 85). [LineLength]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:36:25: Name 'dij_via' must match pattern '^[a-z][a-zA-Z0-9]*$'. [LocalVariableName]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:37: Line is longer than 80 characters (found 116). [LineLength]
 [ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:37:15: 'if' is not followed by whitespace. [WhitespaceAround]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:38: Line is longer than 80 characters (found 83). [LineLength]
 Audit done.
-Checkstyle ends with 7 errors.
+Checkstyle ends with 9 errors.
 Starting audit...
 [ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Stack.java:0: File does not end with a newline. [NewlineAtEndOfFile]
 Audit done.
