@@ -45,13 +45,13 @@ final class Solution {
             break;
         case "ViaPaths":
             String[] viapath = scan.nextLine().split(" ");
-            DijkstrasSP dij1 =
+            DijkstrasSP dijvia =
             new DijkstrasSP(ewg, Integer.parseInt(viapath[0]));
-            if (dij1.hasPathTo(
+            if (dijvia.hasPathTo(
                 Integer.parseInt(viapath[2]))
-                && dij1.hasPathTo(Integer.parseInt(viapath[1]))) {
+                && dijvia.hasPathTo(Integer.parseInt(viapath[1]))) {
                 System.out.println(
-                    dij1.distance(Integer.parseInt(viapath[2])));
+                    dijvia.distance(Integer.parseInt(viapath[2])));
             } else {
                 System.out.println("No Path Found.");
             }
