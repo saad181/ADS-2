@@ -1,0 +1,104 @@
+Starting audit...
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Bag.java:0: File does not end with a newline. [NewlineAtEndOfFile]
+Audit done.
+Checkstyle ends with 1 errors.
+Starting audit...
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\DijkstrasSP.java:0: File does not end with a newline. [NewlineAtEndOfFile]
+Audit done.
+Checkstyle ends with 1 errors.
+Starting audit...
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Edge.java:0: File does not end with a newline. [NewlineAtEndOfFile]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Edge.java:82:5: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Edge.java:109:46: Expected @param tag for 'e'. [JavadocMethod]
+Audit done.
+Checkstyle ends with 3 errors.
+Starting audit...
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:2: Line has trailing spaces. [RegexpSingleline]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:13: Line has trailing spaces. [RegexpSingleline]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:14: Line has trailing spaces. [RegexpSingleline]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:15: Line has trailing spaces. [RegexpSingleline]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:16: Line has trailing spaces. [RegexpSingleline]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:17: Line has trailing spaces. [RegexpSingleline]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:18: Line has trailing spaces. [RegexpSingleline]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:19: Line has trailing spaces. [RegexpSingleline]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:20: Line has trailing spaces. [RegexpSingleline]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:21: Line has trailing spaces. [RegexpSingleline]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:22: Line has trailing spaces. [RegexpSingleline]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:23: Line has trailing spaces. [RegexpSingleline]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:24: Line has trailing spaces. [RegexpSingleline]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:25: Line has trailing spaces. [RegexpSingleline]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:26: Line has trailing spaces. [RegexpSingleline]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:29: Line has trailing spaces. [RegexpSingleline]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:30: Line has trailing spaces. [RegexpSingleline]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:30: Line is longer than 80 characters (found 82). [LineLength]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:31: Line has trailing spaces. [RegexpSingleline]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:32: Line has trailing spaces. [RegexpSingleline]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:34: Line has trailing spaces. [RegexpSingleline]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:52: Line has trailing spaces. [RegexpSingleline]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:58: Line is longer than 80 characters (found 102). [LineLength]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:65:5: Missing a Javadoc comment. [JavadocVariable]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:67:5: Missing a Javadoc comment. [JavadocVariable]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:67:23: Name 'V' must match pattern '^[a-z][a-zA-Z0-9]*$'. [MemberName]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:68:5: Missing a Javadoc comment. [JavadocVariable]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:68:17: Name 'E' must match pattern '^[a-z][a-zA-Z0-9]*$'. [MemberName]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:69:5: Missing a Javadoc comment. [JavadocVariable]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:70: Line has trailing spaces. [RegexpSingleline]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:78:18: Parameter V should be final. [FinalParameters]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:78:22: 'V' hides a field. [HiddenField]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:78:22: Name 'V' must match pattern '^[a-z][a-zA-Z0-9]*$'. [ParameterName]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:79: 'if' construct must use '{}'s. [NeedBraces]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:79: Line is longer than 80 characters (found 96). [LineLength]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:88: Line has trailing spaces. [RegexpSingleline]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:92: Line is longer than 80 characters (found 89). [LineLength]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:95: Line is longer than 80 characters (found 96). [LineLength]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:96: Line is longer than 80 characters (found 86). [LineLength]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:97: Line is longer than 80 characters (found 82). [LineLength]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:99:18: Parameter in should be final. [FinalParameters]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:102: 'if' construct must use '{}'s. [NeedBraces]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:102: Line is longer than 80 characters (found 111). [LineLength]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:107:17: 'E' hides a field. [HiddenField]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:107:17: Name 'E' must match pattern '^[a-z][a-zA-Z0-9]*$'. [LocalVariableName]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:108: 'if' construct must use '{}'s. [NeedBraces]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:108: Line is longer than 80 characters (found 108). [LineLength]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:114: Line has trailing spaces. [RegexpSingleline]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:116:9: '}' at column 9 should be on the same line as the next part of a multi-block statement (one that directly contains multiple blocks: if/else-if/else, do/while or try/catch/finally). [RightCurly]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:118: Line is longer than 80 characters (found 95). [LineLength]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:128:18: Parameter G should be final. [FinalParameters]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:128:24: Name 'G' must match pattern '^[a-z][a-zA-Z0-9]*$'. [ParameterName]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:148:16: Name 'V' must match pattern '^[a-z][a-zA-Z0-9]*$'. [MethodName]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:157:16: Name 'E' must match pattern '^[a-z][a-zA-Z0-9]*$'. [MethodName]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:162:5: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:162:33: Parameter v should be final. [FinalParameters]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:163: 'if' construct must use '{}'s. [NeedBraces]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:164: Line is longer than 80 characters (found 97). [LineLength]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:164:93: '-' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:164:94: '-' is not followed by whitespace. [WhitespaceAround]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:172: Line is longer than 80 characters (found 93). [LineLength]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:174:25: Parameter v should be final. [FinalParameters]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:174:32: Parameter w should be final. [FinalParameters]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:190:34: Parameter v should be final. [FinalParameters]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:202:23: Parameter v should be final. [FinalParameters]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:211: Line is longer than 80 characters (found 93). [LineLength]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:233:29: Parameter args should be final. [FinalParameters]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Graph.java:235:15: Name 'G' must match pattern '^[a-z][a-zA-Z0-9]*$'. [LocalVariableName]
+Audit done.
+Checkstyle ends with 68 errors.
+Starting audit...
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\IndexMinPQ.java:0: File does not end with a newline. [NewlineAtEndOfFile]
+Audit done.
+Checkstyle ends with 1 errors.
+Starting audit...
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:0: File does not end with a newline. [NewlineAtEndOfFile]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:2: Missing a Javadoc comment. [JavadocType]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:3:5: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:6:5: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:27: Line is longer than 80 characters (found 82). [LineLength]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:36: Line is longer than 80 characters (found 85). [LineLength]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:37: Line is longer than 80 characters (found 113). [LineLength]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:38: Line is longer than 80 characters (found 83). [LineLength]
+Audit done.
+Checkstyle ends with 8 errors.
+Starting audit...
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Stack.java:0: File does not end with a newline. [NewlineAtEndOfFile]
+Audit done.
+Checkstyle ends with 1 errors.
