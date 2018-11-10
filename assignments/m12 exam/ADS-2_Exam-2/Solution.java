@@ -1,5 +1,11 @@
 import java.util.Scanner;
+/**
+ * class for solution.
+ */
 final class Solution {
+    /**
+     * Constructs the object.
+     */
     private Solution() {
 
     }
@@ -24,9 +30,11 @@ final class Solution {
 
         case "DirectedPaths":
             String[] path = scan.nextLine().split(" ");
-            DijkstrasSP dij = new DijkstrasSP(ewg, Integer.parseInt(path[0]));
+            DijkstrasSP dij = 
+            new DijkstrasSP(ewg, Integer.parseInt(path[0]));
             if (dij.hasPathTo(Integer.parseInt(path[1]))) {
-                System.out.println(dij.distance(Integer.parseInt(path[1])));
+                System.out.println(
+                    dij.distance(Integer.parseInt(path[1])));
             } else {
                 System.out.println("No Path Found.");
             }
@@ -34,8 +42,10 @@ final class Solution {
         case "ViaPaths":
             String[] viapath = scan.nextLine().split(" ");
             DijkstrasSP dij_via = new DijkstrasSP(ewg, Integer.parseInt(viapath[0]));
-            if(dij_via.hasPathTo(Integer.parseInt(viapath[2])) && dij_via.hasPathTo(Integer.parseInt(viapath[1]))) {
-                System.out.println(dij_via.distance(Integer.parseInt(viapath[2])));
+            if(dij_via.hasPathTo(
+                Integer.parseInt(viapath[2])) && dij_via.hasPathTo(Integer.parseInt(viapath[1]))) {
+                System.out.println(
+                    dij_via.distance(Integer.parseInt(viapath[2])));
             } else {
                 System.out.println("No Path Found.");
             }
