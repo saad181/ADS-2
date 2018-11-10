@@ -10,10 +10,10 @@ Starting audit...
 [ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:0: File does not end with a newline. [NewlineAtEndOfFile]
 [ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:12:5: Missing a Javadoc comment. [JavadocMethod]
 [ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:33: Line has trailing spaces. [RegexpSingleline]
-[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:44: Line is longer than 80 characters (found 85). [LineLength]
-[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:44:25: Name 'dij_via' must match pattern '^[a-z][a-zA-Z0-9]*$'. [LocalVariableName]
-[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:45:15: 'if' is not followed by whitespace. [WhitespaceAround]
-[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:46: Line is longer than 80 characters (found 99). [LineLength]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:44: Line has trailing spaces. [RegexpSingleline]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:46:15: 'if' is not followed by whitespace. [WhitespaceAround]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:47: Line has trailing spaces. [RegexpSingleline]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:47:47: '&&' should be on a new line. [OperatorWrap]
 Audit done.
 Checkstyle ends with 7 errors.
 Starting audit...
