@@ -23,13 +23,13 @@ final class Solution {
             break;
 
         case "DirectedPaths":
-            // String[] input = scan.nextLine().split(" ");
-            // DijkstrasSP dij = new DijkstrasSP(ewg, Integer.parseInt(input[0]));
-            // if(dij.hasPathTo(Integer.parseInt(input[1]))) {
-            //     System.out.println(dij.distance(Integer.parseInt(input[1])));
-            // } else {
-            //     System.out.println("No Path Found.");
-            // }
+            String[] path = scan.nextLine().split(" ");
+            DijkstrasSP dij = new DijkstrasSP(ewg, Integer.parseInt(path[0]));
+            if(dij.hasPathTo(Integer.parseInt(path[1]))) {
+                System.out.println(dij.distance(Integer.parseInt(path[1])));
+            } else {
+                System.out.println("No Path Found.");
+            }
             break;
         case "ViaPaths":
             // String[] viapath = scan.nextLine().split(" ");

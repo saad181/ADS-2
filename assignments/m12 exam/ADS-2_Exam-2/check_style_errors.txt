@@ -92,7 +92,7 @@ Starting audit...
 [ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:2: Missing a Javadoc comment. [JavadocType]
 [ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:3:5: Missing a Javadoc comment. [JavadocMethod]
 [ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:6:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:27: Line is longer than 80 characters (found 82). [LineLength]
+[ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:28:15: 'if' is not followed by whitespace. [WhitespaceAround]
 [ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:36: Line is longer than 80 characters (found 85). [LineLength]
 [ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:37: Line is longer than 80 characters (found 113). [LineLength]
 [ERROR] F:\MSIT\ADS-2\assignments\m12 exam\ADS-2_Exam-2\Solution.java:38: Line is longer than 80 characters (found 83). [LineLength]
