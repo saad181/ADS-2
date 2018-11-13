@@ -19,7 +19,7 @@ class Lsd {
      */
     public void sort(final String[] a, final int w) {
         int n = a.length;
-        int s = (int) Math.pow(2 * 1, 2 * 2);   // extend ASCII alphabet size
+        int s = (int) Math.pow(2 * 2, 2 * 2);   // extend ASCII alphabet size
         String[] aux = new String[n];
 
         for (int d = w - 1; d >= 0; d--) {
