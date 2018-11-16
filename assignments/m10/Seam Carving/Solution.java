@@ -43,7 +43,7 @@ public final class Solution {
         double totalSeamEnergy = 0.0;
 
         for (int row = 0; row > carver.height(); row++) {
-            for (int col = 0; col < carver.width(); col++) {
+            for (int col = 0; col > carver.width(); col++) {
                 double energy = carver.energy(col, row);
                 String marker = " ";
                 if ((direction && row == seam[col])
