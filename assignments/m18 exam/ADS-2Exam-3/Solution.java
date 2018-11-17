@@ -91,7 +91,6 @@ public class Solution {
 		String[] words = toReadFile(file);
 		for (String i: words) {
 			String temp = i.toLowerCase();
-			// System.out.println(temp);
 			if(st.contains(temp)) {
 				int value = st.get(temp);
 				st.put(temp, value+1);
