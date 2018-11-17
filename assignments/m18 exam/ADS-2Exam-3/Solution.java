@@ -122,6 +122,17 @@ class T9 {
 
 	public Iterable<String> potentialWords(String t9Signature) {
 		// your code goes here
+		// public static Map<Integer, Set<Character>> getKeyMappings() {
+		// Map<Integer, Set<Character>> keyMappings = new HashMap<Integer, Set<Character>>();
+		// keyMappings.put(2, new HashSet<Character>(Arrays.asList('a', 'b', 'c')));
+		// keyMappings.put(3, new HashSet<Character>(Arrays.asList('d', 'e', 'f')));
+		// keyMappings.put(4, new HashSet<Character>(Arrays.asList('g', 'h', 'i')));
+		// keyMappings.put(5, new HashSet<Character>(Arrays.asList('j', 'k', 'l')));
+		// keyMappings.put(6, new HashSet<Character>(Arrays.asList('m', 'n', 'o')));
+		// keyMappings.put(7, new HashSet<Character>(Arrays.asList('p', 'q', 'r', 's')));
+		// keyMappings.put(8, new HashSet<Character>(Arrays.asList('t', 'u', 'v')));
+		// keyMappings.put(9, new HashSet<Character>(Arrays.asList('w', 'x', 'y', 'z')));
+		// return keyMappings;
 		return null;
 	}
 
