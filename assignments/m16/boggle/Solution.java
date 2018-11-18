@@ -32,19 +32,19 @@ final class Solution {
 
         default:
             try {
-                // dictionaryName = StdIn.readLine();
-                // in = new In("/Files/" + dictionaryName);
-                // dictionary = in.readAllStrings();
-                // solver = new BoggleSolver(dictionary);
-                // board = null;
-                // if (board == null) {
-                //     throw new Exception("board is null");
-                // }
-                // score = 0;
-                // for (String word : solver.getAllValidWords(board)) {
-                //     score += solver.scoreOf(word);
-                // }
-                // StdOut.println("Score = " + score);
+                dictionaryName = StdIn.readLine();
+                in = new In("/Files/" + dictionaryName);
+                dictionary = in.readAllStrings();
+                solver = new BoggleSolver(dictionary);
+                board = null;
+                if (board == null) {
+                    throw new Exception("board is null");
+                }
+                score = 0;
+                for (String word : solver.getAllValidWords(board)) {
+                    score += solver.scoreOf(word);
+                }
+                StdOut.println("Score = " + score);
             } catch (Exception ex) {
                 System.out.println(ex.getMessage());
             }
