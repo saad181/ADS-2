@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import java.util.HashMap;
 class Solution{
+	//time complexity is O(logN) for both put() & get()
 	public static void main(String[] args) {
 		
 		Scanner scan = new Scanner(System.in);
